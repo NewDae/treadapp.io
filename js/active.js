@@ -36,6 +36,12 @@ AOS.init();
 		$(".btn-close-off-canvas").on('click', function () {
 			$(".off-canvas-wrapper").removeClass('open');
 		});
+        $(".close-off-canvas").on('click', function () {
+			$(".off-canvas-wrapper").removeClass('open');
+		});
+        $(".close-off-canvas").on('click', function () {
+			$(".off-canvas-wrapper").removeClass('open');
+		});
 
 
 $('document').ready(function(){
